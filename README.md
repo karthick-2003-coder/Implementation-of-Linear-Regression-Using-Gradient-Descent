@@ -21,8 +21,8 @@ To visualize the data use plt.plot.
 ```
 /*
 Program to implement the linear regression using gradient descent.
-Developed by: ISHAQ HUSSAIN A
-RegisterNumber: 212221040059
+Developed by: P.KARTHICK
+RegisterNumber: 212221040072
 */
 ```
 ```
